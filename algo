@@ -1,0 +1,8 @@
+début nombreBonbonsMax ( réel argent ; réel prix_bonbons ; nombrebonbons )
+réel argent=12,47
+réel prix_bonbons=1,14
+réel nombrebonbons=0
+tant que argent > prix_bonbons
+ajouter +1 nombrebonbons
+
+fin nombreBonbonsMax
